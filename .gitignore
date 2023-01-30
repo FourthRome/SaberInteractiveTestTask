@@ -1,0 +1,10 @@
+# Compilation artifacts
+*.o
+main
+test
+
+# IDE
+.vscode
+
+# Program's execution artifacts
+*.bin
